@@ -20,3 +20,6 @@ node_modules/
 # backup nested git saat migrasi monorepo
 .git.backup/
 **/.git.backup/
+# artefak build IDE (IntelliJ/Gradle) - regeneratable
+**/bin/
+**/out/
