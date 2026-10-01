@@ -1,4 +1,4 @@
-# Tugas 3 Pengembangan Aplikasi Mobile
+# Tugas 3 - My Profile App
 
 **Nama:** Muhammad Arfa Raditya  
 **NIM:** 124140015  

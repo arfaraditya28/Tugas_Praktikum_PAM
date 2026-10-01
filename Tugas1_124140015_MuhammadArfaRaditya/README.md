@@ -1,4 +1,4 @@
-# Tugas 1 PAM
+# Tugas 1 - Hello World
 
 **Nama:** Muhammad Arfa Raditya  
 **NIM:** 124140015  
